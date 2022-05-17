@@ -2,9 +2,7 @@
 
 ### Todo
 
-- [ ] fix dat als je  
-- [ ] Fix the homepage ~1d #bug @jane  
-  - [ ] Sub-task or description  
+- [ ] fix dat als je   
 - [ ]wall e pet
 - [ ]enemy variety
 - [ ]gun variety
