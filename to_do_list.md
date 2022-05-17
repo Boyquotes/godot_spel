@@ -8,7 +8,10 @@
 
 ### In Progress
 
-- [ ] Make new enemy model
+- [ ] enemy rework
+  - [ ] new enemy model
+  - [ ] new bullet particles
+  - [ ] utyt
 
 ### Done ✓
 
