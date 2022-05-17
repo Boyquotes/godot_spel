@@ -2,6 +2,8 @@
 
 ### Todo
 
+- [ ] Goede map
+  - [ ] meer map assets 
 - [ ] fix dat als je het project opent op mac dat het niet crashed
 - [ ] wall e pet
 - [ ] enemy variety
