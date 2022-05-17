@@ -3,11 +3,11 @@
 ### Todo
 
 - [ ] fix dat als je   
-- [ ]wall e pet
-- [ ]enemy variety
-- [ ]gun variety
-- [ ]coins/economy
-- [ ]in-game shop
+- [ ] wall e pet
+- [ ] enemy variety
+- [ ] gun variety
+- [ ] coins/economy
+- [ ] in-game shop
 
 ### In Progress
 
