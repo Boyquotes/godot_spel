@@ -5,13 +5,18 @@
 - [ ] fix dat als je  
 - [ ] Fix the homepage ~1d #bug @jane  
   - [ ] Sub-task or description  
+- [ ]wall e pet
+- [ ]enemy variety
+- [ ]gun variety
+- [ ]coins/economy
+- [ ]in-game shop
 
 ### In Progress
 
 - [ ] enemy rework
   - [ ] new enemy model
   - [ ] new bullet particles
-  - [ ] utyt
+  - [ ] enemy ai rewrite
 
 ### Done ✓
 
