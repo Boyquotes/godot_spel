@@ -24,9 +24,9 @@
  
 - [ ] enemy rework@jannickM
   - [ ] new enemy model
-  - [ ] new bullet particles
   - [ ] enemy ai rewrite
 
 ### Done ✓
-
+- [ ] enemy rework
+  - [x] new bullet particles
 - [x] ezzzzzzzzzz to do ding van internet genakt
