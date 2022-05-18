@@ -9,8 +9,8 @@
 - [ ] coins/economy
 - [ ] in-game shop
 - [ ] Busje die de winkel is
- - [ ] 3d busje maken in blender
- - [ ] busje programeren 
+  - [ ] 3d busje maken in blender
+  - [ ] busje programeren 
 
 ### In Progress
 
