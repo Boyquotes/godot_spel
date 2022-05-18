@@ -27,5 +27,5 @@
   - [ ] enemy ai rewrite
 
 ### Done ✓
-- [x]  enemy new bullet particles
+- [x] new enemy bullet particles
 - [x] ezzzzzzzzzz to do ding van internet genakt
