@@ -8,12 +8,15 @@
 - [ ] gun variety
 - [ ] coins/economy
 - [ ] in-game shop
+- [ ] Busje die de winkel is
 
 ### In Progress
 
 - [ ] Goede map@kipmeneer
-  - [ ] meer map assets 
   - [ ] Niewe map maken
+- [ ] map assets
+  - [ ] Kampvuur
+  - [ ]  Toren
  
 - [ ] enemy rework@jannickM
   - [ ] new enemy model
