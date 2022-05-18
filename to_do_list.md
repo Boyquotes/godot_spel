@@ -19,6 +19,8 @@
 - [ ] map assets
   - [ ] Kampvuur
   - [ ]  Toren
+  - [ ]  Boten
+  - [ ]  Tenten
  
 - [ ] enemy rework@jannickM
   - [ ] new enemy model
