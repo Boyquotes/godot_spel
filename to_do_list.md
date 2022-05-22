@@ -2,7 +2,6 @@
 
 ### Todo
 
-- [ ] fix dat als je het project opent op mac dat het niet crashed
 - [ ] wall e pet
 - [ ] enemy variety
 - [ ] gun variety
@@ -23,9 +22,12 @@
   - [ ]  Tenten
  
 - [ ] enemy rework@jannickM
-  - [ ] new enemy model
+  - [x] new enemy model
   - [ ] enemy ai rewrite
 
 ### Done ✓
+- [x] Main Menu
+- [x] Death Screen 
 - [x] new enemy bullet particles
 - [x] ezzzzzzzzzz to do ding van internet genakt
+- [x] fix dat als je het project opent op mac dat het niet crashed
