@@ -1,3 +1,3 @@
 # spel
 
-godot spul
+Github repository voor godot spel.
